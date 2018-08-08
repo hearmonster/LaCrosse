@@ -1,0 +1,9 @@
+/*@@layout{"layoutInfo":{"x":-387,"y":-246.5}}*/
+context PO {
+
+    /*@@layout{"layoutInfo":{"x":-364,"y":-193.5}}*/
+    entity APPROVAL_STATUS {
+        ID   : String(1);
+        TEXT : String(200);
+    };
+};
